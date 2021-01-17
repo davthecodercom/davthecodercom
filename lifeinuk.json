@@ -1,25 +1,32 @@
 {
   "version": "20210117",
-  "test": {
-    "q1": {
-      "question": "Which one is correct team name in NBA?",
-      "options": [
-        {"code":1, "answer": "New York Bulls"},
-        {"code":2, "answer": "Los Angeles Kings"},
-        {"code":3, "answer": "Golden State Warriros"},
-        {"code":4, "answer": "Huston Rocket"}
-      ],
-      "correctOption": 4
-    },
-    "q2": {
-      "question": "Which one is correct team name in NBA?",
-      "options": [
-        {"code":1, "answer": "New York Bulls"},
-        {"code":2, "answer": "Los Angeles Kings"},
-        {"code":3, "answer": "Golden State Warriros"},
-        {"code":4, "answer": "Huston Rocket"}
-      ],
-      "correctOption": 4
+  "examsList": [
+    {
+      "examNumber": 1,
+      "questionsList": [
+        {
+          "question": "Which one is correct team name in NBA?",
+          "options": [
+            {
+              "code": 1,
+              "answer": "New York Bulls"
+            },
+            {
+              "code": 2,
+              "answer": "Los Angeles Kings"
+            },
+            {
+              "code": 3,
+              "answer": "Golden State Warriros"
+            },
+            {
+              "code": 4,
+              "answer": "Huston Rocket"
+            }
+          ],
+          "correctOption": 4
+        }
+      ]
     }
-  }
+  ]
 }
