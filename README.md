@@ -27,7 +27,7 @@ I do also like to teach and learn from other developers.
 ### 📫 How to reach me:
 - WEB: [www.davidcruz.co.uk](https://www.davidcruz.co.uk)
 - YouTube: [David Cruz Anaya](https://www.youtube.com/c/DavidCruzAnaya)
-- Twitter: [@DavidCruzUK](https://twitter.com/davthecoder)
+- Twitter: [@davthecoder](https://twitter.com/davthecoder)
 - Instagram: [@davthecoder](https://www.instagram.com/davthecoder)
 
 <!--
