@@ -7,14 +7,15 @@ I do also like to teach and learn from other developers.
 ### 🔭 I’m currently working on:
 * I am working on creating amazing courses about Kotlin, Android and all the Ecosystem
 - Portfolio: [portfolio](https://www.davidcruz.co.uk/potfolio)
-- LastReact EN: [Academy in English](https://www.lastreact.uk/)
-- LastReact ES: [Academia en Español](https://www.lastreact.com/)
+- UnitMock EN: [Academy in English](https://www.unitmock.uk/)
+- UnitMock ES: [Academia en Español](https://www.unitmock.com/)
 
 ### 🌱 I’m currently learning:
 - Android: Coroutines, Flow, MocKK
 - Python
 - Django
 - Create Restful API.
+- KMM (Kotlin Multi-platform Mobile)
 
 ### 💬 Ask me about:
 - Android
@@ -22,13 +23,14 @@ I do also like to teach and learn from other developers.
 - Clean Code
 - Data Structures
 - TDD
-- and of course about my music productions ;), check it out -> [DaCrAn](https://www.youtube.com/channel/UCBD2YlDDEA6qZJRPOAT9FKQ)
 
 ### 📫 How to reach me:
 - WEB: [www.davidcruz.co.uk](https://www.davidcruz.co.uk)
-- YouTube: [David Cruz Anaya](https://www.youtube.com/c/DavidCruzAnaya)
+- YouTube: [DavTheCoder](https://www.youtube.com/c/DavidCruzAnaya)
 - Twitter: [@davthecoder](https://twitter.com/davthecoder)
 - Instagram: [@davthecoder](https://www.instagram.com/davthecoder)
+- SkillShare: [@davthecoder](https://www.skillshare.com/user/davthecoder)
+- Udemy: [@davidcruzanayadacran](https://www.udemy.com/user/davidcruzanayadacran/)
 
 <!--
 **DavidCruzUK/DavidCruzUK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
