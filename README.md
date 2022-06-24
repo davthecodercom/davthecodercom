@@ -12,7 +12,7 @@ I do also like to teach and learn from other developers.
 - Android (Jetpack Compose, Coroutines,Flow, MocKK,...)
 - [Ktor](https://ktor.io/) (Kotlin Multi-platform Mobile)
 - [KMM](https://kotlinlang.org/lp/mobile/) (Kotlin Multi-platform Mobile)
-- Swift && SwiftUI
+- Swift & SwiftUI
 
 ### 💬 Ask me about:
 - Android
