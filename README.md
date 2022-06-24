@@ -5,17 +5,14 @@ learn new topics to improve every day as a developer and a team member, senior a
 I do also like to teach and learn from other developers.
 
 ### 🔭 I’m currently working on:
-* I am working on creating amazing courses about Kotlin, Android and all the Ecosystem
-- Portfolio: [portfolio](https://www.davidcruz.co.uk/potfolio)
-- UnitMock EN: [Academy in English](https://www.unitmock.uk/)
-- UnitMock ES: [Academia en Español](https://www.unitmock.com/)
+* I am working on creating amazing courses about Kotlin, Android and all the ecosystem.
 
 ### 🌱 I’m currently learning:
-- Android: Coroutines, Flow, MocKK
-- Python
-- Django
-- Create Restful API.
-- KMM (Kotlin Multi-platform Mobile)
+- Kotlin
+- Android (Jetpack Compose, Coroutines,Flow, MocKK,...)
+- [Ktor](https://ktor.io/) (Kotlin Multi-platform Mobile)
+- [KMM](https://kotlinlang.org/lp/mobile/) (Kotlin Multi-platform Mobile)
+- Swift && SwiftUI
 
 ### 💬 Ask me about:
 - Android
@@ -25,11 +22,12 @@ I do also like to teach and learn from other developers.
 - TDD
 
 ### 📫 How to reach me:
-- WEB: [www.davidcruz.co.uk](https://www.davidcruz.co.uk)
-- YouTube: [DavTheCoder](https://www.youtube.com/c/DavidCruzAnaya)
-- Twitter: [@davthecoder](https://twitter.com/davthecoder)
-- Instagram: [@davthecoder](https://www.instagram.com/davthecoder)
-- SkillShare: [@davthecoder](https://www.skillshare.com/user/davthecoder)
+- WEB: [www.davthecoder.co.uk](https://www.davthecoder.com
+- YouTube: [davthecoder](https://www.youtube.com/c/davthecoder)
+- Twitch: [davthecoder](https://www.twitch.tv/davthecoder)
+- Twitter: [@davthecoder](https://www.twitter.com/davthecoder)
+- Instagram: [davthecoder](https://www.instagram.com/davthecoder)
+- SkillShare: [davthecoder](https://www.skillshare.com/user/davthecoder)
 - Udemy: [@davidcruzanayadacran](https://www.udemy.com/user/davidcruzanayadacran/)
 
 <!--
