@@ -22,7 +22,7 @@ I do also like to teach and learn from other developers.
 - TDD
 
 ### 📫 How to reach me:
-- WEB: [www.davthecoder.co.uk](https://www.davthecoder.com
+- WEB: [www.davthecoder.com](https://www.davthecoder.com)
 - YouTube: [davthecoder](https://www.youtube.com/c/davthecoder)
 - Twitch: [davthecoder](https://www.twitch.tv/davthecoder)
 - Twitter: [@davthecoder](https://www.twitter.com/davthecoder)
