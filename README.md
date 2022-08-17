@@ -10,7 +10,7 @@ I do also like to teach and learn from other developers.
 ### 🌱 I’m currently learning:
 - Kotlin
 - Android (Jetpack Compose, Coroutines,Flow, MocKK,...)
-- [Ktor](https://ktor.io/) (Kotlin Multi-platform Mobile)
+- [Ktor](https://ktor.io/) (Backend)
 - [KMM](https://kotlinlang.org/lp/mobile/) (Kotlin Multi-platform Mobile)
 - Swift & SwiftUI
 
