@@ -8,15 +8,17 @@ I do also like to teach and learn from other developers.
 * I am working on creating amazing courses about Kotlin, Android and all the ecosystem.
 
 ### 🌱 I’m currently learning:
-- Kotlin
-- Android (Jetpack Compose, Coroutines,Flow, MocKK,...)
+- [Kotlin](https://kotlinlang.org/)
+- [Android](https://www.android.com/) (Jetpack Compose, Coroutines,Flow, MocKK,...)
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
 - [Ktor](https://ktor.io/) (Backend)
-- [KMM](https://kotlinlang.org/lp/mobile/) (Kotlin Multi-platform Mobile)
-- Swift & SwiftUI
 
 ### 💬 Ask me about:
 - Android
 - Kotlin
+- Flutter
+- Dart
 - Clean Code
 - Data Structures
 - TDD
