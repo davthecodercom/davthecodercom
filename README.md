@@ -1,11 +1,11 @@
 ## Hi & Welcome 👋
-My name is David Cruz Anaya, Born in Spain, and an enthusiast for the newest technologies.
+My name is David Cruz, Born in Spain, and an enthusiast for the newest technologies.
 I do love write apps in Kotlin for Android, also had a chance sometimes to write Native iOS apps on Swift and 
 learn new topics to improve every day as a developer and a team member, senior and trainer/mentor.
 I do also like to teach and learn from other developers.
 
 ### ⚡ Github Stats:
-[![David Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=davthecodercom&show_icons=true&theme=tokyonight)](https://github.com/davthecodercom/github-readme-stats)
+[![David Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=davthecodercom&show_icons=true&theme=tokyonight)](https://github.com/davthecodercom/)
 
 
 ### 🔭 I’m currently working on:
