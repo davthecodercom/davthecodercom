@@ -162,7 +162,11 @@ I'm also the author of **"You Are Not That Important"** — available in [Englis
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+- [The Unified Codebase: A Comprehensive Blueprint for Kotlin Multiplatform Clean Architecture](https://www.davthecoder.com/blog/the-unified-codebase-a-comprehensive-blueprint-for-kotlin-multiplatform-clean-architecture) — *000 D, YYYY*
+- [Understanding Job Types in Kotlin Coroutines: A Complete Guide](https://www.davthecoder.com/blog/understanding-job-types-in-kotlin-coroutines) — *000 D, YYYY*
+- [Lessons Learned Building Paglipat.com: KMP, Ktor, Supabase &amp; Next.js from an Android Developer&#39;s Perspective](https://www.davthecoder.com/blog/lessons-learned-building-paglipat-kmp-ktor-supabase-nextjs) — *000 D, YYYY*
+- [Building High-Performance iOS Financial Charts with Rust and SwiftUI](https://www.davthecoder.com/blog/building-high-performance-ios-financial-charts-wit) — *000 D, YYYY*
+- [Building a High-Performance Financial Charting App: Rust + Kotlin on Android](https://www.davthecoder.com/blog/building-a-high-performance-financial-charting-app) — *000 D, YYYY*<!-- BLOG-POST-LIST:END -->
 
 *More at **[davthecoder.com](https://www.davthecoder.com/blog)***
 
