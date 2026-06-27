@@ -193,4 +193,13 @@ I'm also the author of **"You Are Not That Important"** — available in [Englis
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=100&section=footer" width="100%" />
+
+  <sub>© 2013–2026 <strong>David Cruz Anaya</strong> (davthecoder). All rights reserved.</sub>
+
 </div>
+
+<!--
+  Copyright © 2013–2026 David Cruz Anaya (davthecoder). All rights reserved.
+  This profile content and assets are the property of the author. See LICENSE.
+-->
+
