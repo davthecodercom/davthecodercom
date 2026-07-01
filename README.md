@@ -162,11 +162,11 @@ I'm also the author of **"You Are Not That Important"** — available in [Englis
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
+- [Effective One-on-One Meetings: A Field Guide for Engineering Managers](https://www.davthecoder.com/blog/effective-one-on-one-meetings-engineering-managers/) — *000 D, YYYY*
 - [Understanding inline, crossinline, noinline, reified, and where Keywords in Kotlin](https://www.davthecoder.com/blog/understanding-inline-crossinline-noinline-reified-where-keywords-in-kotlin/) — *000 D, YYYY*
 - [C++ on Android: When and Why You Should &lpar;and Shouldn&#39;t&rpar; Use It](https://www.davthecoder.com/blog/cpp-on-android-when-and-why-to-use-it/) — *000 D, YYYY*
 - [How impostor syndrome becomes the pike effect for software developers](https://www.davthecoder.com/blog/how-impostor-syndrome-becomes-the-pike-effect-for-software-developers/) — *4949 D, YYYY*
-- [Introducing Klarinet: A Low-Latency Audio SDK for Kotlin Multiplatform](https://www.davthecoder.com/blog/introducing-klarinet-a-low-latency-audio-sdk-for-kotlin-multiplatform/) — *000 D, YYYY*
-- [Why I Built KMP SaaS Kit: Stop Rebuilding the Same Mobile Infrastructure](https://www.davthecoder.com/blog/why-i-built-kmp-saas-kit-stop-rebuilding-the-same-mobile-infrastructure/) — *022 D, YYYY*<!-- BLOG-POST-LIST:END -->
+- [Introducing Klarinet: A Low-Latency Audio SDK for Kotlin Multiplatform](https://www.davthecoder.com/blog/introducing-klarinet-a-low-latency-audio-sdk-for-kotlin-multiplatform/) — *000 D, YYYY*<!-- BLOG-POST-LIST:END -->
 
 *More at **[davthecoder.com](https://www.davthecoder.com/blog)***
 
