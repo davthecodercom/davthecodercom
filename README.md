@@ -162,11 +162,11 @@ I'm also the author of **"You Are Not That Important"** — available in [Englis
 <div align="center">
 
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Rust Toolchain Setup for Android: rustup, cargo-ndk, and Your First .so in an APK](https://www.davthecoder.com/blog/rust-android-ndk-toolchain-setup-cargo-ndk/) — *000 D, YYYY*
 - [Rust on Android: How to Use It, How to Debug It, and Why It&#39;s Worth It](https://www.davthecoder.com/blog/rust-on-android-how-to-use-it-debug-it-and-why/) — *000 D, YYYY*
 - [What I Look for During an Android Code Review](https://www.davthecoder.com/blog/what-i-look-for-during-an-android-code-review/) — *000 D, YYYY*
 - [Is It OK to Quit a Job That&#39;s a Bad Cultural Fit?](https://www.davthecoder.com/blog/is-it-ok-to-quit-a-job-thats-a-bad-cultural-fit/) — *000 D, YYYY*
-- [Effective One-on-One Meetings: A Field Guide for Engineering Managers](https://www.davthecoder.com/blog/effective-one-on-one-meetings-engineering-managers/) — *000 D, YYYY*
-- [Understanding inline, crossinline, noinline, reified, and where Keywords in Kotlin](https://www.davthecoder.com/blog/understanding-inline-crossinline-noinline-reified-where-keywords-in-kotlin/) — *000 D, YYYY*<!-- BLOG-POST-LIST:END -->
+- [Effective One-on-One Meetings: A Field Guide for Engineering Managers](https://www.davthecoder.com/blog/effective-one-on-one-meetings-engineering-managers/) — *000 D, YYYY*<!-- BLOG-POST-LIST:END -->
 
 *More at **[davthecoder.com](https://www.davthecoder.com/blog)***
 
