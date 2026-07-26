@@ -108,11 +108,10 @@ I'm also the author of **[You Are Not That Important](https://www.davthecoder.co
 
 <!-- BLOG-POST-LIST:START -->
 - [The Complete Rust Toolchain Setup for Android: rustup, cargo-ndk, and Your First .so in an APK](https://www.davthecoder.com/blog/rust-android-ndk-toolchain-setup-cargo-ndk/) — *Jul 23, 2026*
-- [Rust on Android: How to Use It, How to Debug It, and Why It's Worth It](https://www.davthecoder.com/blog/rust-on-android-how-to-use-it-debug-it-and-why/) — *Jul 19, 2026*
+- [Rust on Android: How to Use It, How to Debug It, and Why It&#39;s Worth It](https://www.davthecoder.com/blog/rust-on-android-how-to-use-it-debug-it-and-why/) — *Jul 19, 2026*
 - [What I Look for During an Android Code Review](https://www.davthecoder.com/blog/what-i-look-for-during-an-android-code-review/) — *Jul 15, 2026*
-- [Is It OK to Quit a Job That's a Bad Cultural Fit?](https://www.davthecoder.com/blog/is-it-ok-to-quit-a-job-thats-a-bad-cultural-fit/) — *Jul 12, 2026*
-- [Effective One-on-One Meetings: A Field Guide for Engineering Managers](https://www.davthecoder.com/blog/effective-one-on-one-meetings-engineering-managers/) — *Jun 30, 2026*
-<!-- BLOG-POST-LIST:END -->
+- [Is It OK to Quit a Job That&#39;s a Bad Cultural Fit?](https://www.davthecoder.com/blog/is-it-ok-to-quit-a-job-thats-a-bad-cultural-fit/) — *Jul 12, 2026*
+- [Effective One-on-One Meetings: A Field Guide for Engineering Managers](https://www.davthecoder.com/blog/effective-one-on-one-meetings-engineering-managers/) — *Jun 30, 2026*<!-- BLOG-POST-LIST:END -->
 
 ➡️ **[Read all articles](https://www.davthecoder.com/blog)**
 
