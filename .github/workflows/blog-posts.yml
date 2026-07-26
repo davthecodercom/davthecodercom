@@ -18,4 +18,6 @@ jobs:
           feed_list: "https://www.davthecoder.com/blog/rss.xml"
           max_post_count: 5
           template: "$newline- [$title]($url) — *$date*"
-          date_format: "MMM D, YYYY"
+          date_format: "mmm d, yyyy"
+          retry_count: 3
+          retry_wait_time: 5
