@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&fontColor=70a5fd&height=220&section=header&text=David%20Cruz%20Anaya&fontSize=42&fontAlignY=35&desc=Senior%20Software%20Engineer%20%40%20Deliveroo%20%7C%20Android%20%C2%B7%20KMP%20%C2%B7%20Native%20Performance&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="David Cruz Anaya — Senior Software Engineer at Deliveroo" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&fontColor=70a5fd&height=220&section=header&text=David%20Cruz%20Anaya&fontSize=42&fontAlignY=35&desc=Senior%20Android%20%26%20Kotlin%20Multiplatform%20Engineer%20%7C%20Native%20Performance&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="David Cruz Anaya — Senior Android and Kotlin Multiplatform Engineer" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Building+mobile+products+used+at+scale;Creator+of+Klarinet+%26+Paglipat;Author+%C2%B7+Speaker+%C2%B7+Educator+to+20%2C000%2B+students)](https://git.io/typing-svg)
 
@@ -10,14 +10,14 @@
 
 ## 👋 About me
 
-I'm **David Cruz Anaya**, a Senior Software Engineer at **Deliveroo** specialising in Android, Kotlin Multiplatform and mobile architecture. I was born in Spain and am now based in London, with **12+ years** of experience building, leading and shipping mobile products.
+I'm **David Cruz Anaya**, a Senior Software Engineer specialising in Android, Kotlin Multiplatform and mobile architecture. I was born in Spain and am now based in London, with **12+ years** of experience building, leading and shipping mobile products.
 
 Previously, I led a cross-functional team delivering **Sky Go to 10M+ users**. Outside my day job, I build open-source software and digital products, write technical content and teach.
 
 I'm also the author of **[You Are Not That Important](https://www.davthecoder.com/book)** and a Udemy instructor who has taught **20,000+ students**.
 
 ```text
-💼  Senior Software Engineer at Deliveroo
+💼  Senior Android & Kotlin Multiplatform Engineer
 🎧  Building Klarinet — low-latency audio for Kotlin Multiplatform
 🌏  Building Paglipat — practical Southeast Asia relocation guides and travel search
 ✍️  Writing about Android, KMP, native performance and engineering leadership
@@ -92,7 +92,6 @@ I'm also the author of **[You Are Not That Important](https://www.davthecoder.co
 
 <div align="center">
 
-![Deliveroo](https://img.shields.io/badge/Deliveroo-00CCBC?style=for-the-badge&logo=deliveroo&logoColor=white)
 ![Sky](https://img.shields.io/badge/Sky-0072C9?style=for-the-badge&logo=sky&logoColor=white)
 ![Comcast](https://img.shields.io/badge/Comcast-000000?style=for-the-badge&logo=xfinity&logoColor=white)
 ![Deltatre](https://img.shields.io/badge/Deltatre-1a1b27?style=for-the-badge)
