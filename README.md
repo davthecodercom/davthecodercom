@@ -35,7 +35,6 @@ I'm also the author of **[You Are Not That Important](https://www.davthecoder.co
 | 🎧 **[Klarinet](https://www.davthecoder.com/blog/introducing-klarinet-a-low-latency-audio-sdk-for-kotlin-multiplatform)** | Open-source, low-latency audio SDK for Android and Apple platforms | KMP, Kotlin, C++, Oboe, AVAudioEngine |
 | 🦀 **[Churust](https://www.davthecoder.com/blog/introducing-churust-ktor-style-rust-web-framework/)** | Secure, Ktor-style web framework for Rust — server builder, routing DSL, safe defaults | Rust, HTTP, web frameworks |
 | 🌏 **[Paglipat](https://www.paglipat.com)** | Practical relocation guides and travel search for Southeast Asia | Ktor, Next.js, Supabase, KMP |
-| 🧰 **[KMP SaaS Kit](https://www.davthecoder.com)** | Production-ready Kotlin Multiplatform starter — auth, subscriptions and onboarding | KMP, Compose, Supabase |
 | ✍️ **[davthecoder.com](https://www.davthecoder.com)** | Long-form engineering articles, talks and project write-ups | Android, KMP, Rust, C++, leadership |
 
 ---
