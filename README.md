@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&fontColor=70a5fd&height=220&section=header&text=David%20Cruz%20Anaya&fontSize=42&fontAlignY=35&desc=Senior%20Android%20%26%20Kotlin%20Multiplatform%20Engineer%20%7C%20Native%20Performance&descSize=17&descAlignY=55&animation=fadeIn" width="100%" alt="David Cruz Anaya — Senior Android and Kotlin Multiplatform Engineer" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Building+mobile+products+used+at+scale;Creator+of+Klarinet+%26+Paglipat;Author+%C2%B7+Speaker+%C2%B7+Educator+to+20%2C000%2B+students)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&repeat=true&width=900&height=70&lines=Building+mobile+products+used+at+scale;Independent+Android+%26+Kotlin+Multiplatform+Engineer;Creator+of+Klarinet+%2C+Churust+%26+Paglipat;Author+%C2%B7+Speaker+%C2%B7+Educator+to+20%2C000%2B+students)](https://git.io/typing-svg)
 
 <img src="https://komarev.com/ghpvc/?username=davthecodercom&label=Profile%20views&color=70a5fd&style=flat" alt="Profile views" />
 
@@ -10,19 +10,21 @@
 
 ## 👋 About me
 
-I'm **David Cruz Anaya**, a Senior Software Engineer specialising in Android, Kotlin Multiplatform and mobile architecture. I was born in Spain and am now based in London, with **12+ years** of experience building, leading and shipping mobile products.
+I'm **David Cruz Anaya**, an independent Senior Mobile Engineer specialising in Android modernisation, Kotlin Multiplatform and native Rust. I was born in Spain and am now based in London, with **12+ years** of experience building, leading and shipping mobile products used by millions.
 
-Previously, I led a cross-functional team delivering **Sky Go to 10M+ users**. Outside my day job, I build open-source software and digital products, write technical content and teach.
+I've shipped production apps for **Sky, BetMGM, WWE, BritBox and NOW** — including leading a cross-functional team that delivered **Sky Go to 10M+ users**. Today I help teams modernise ageing Android codebases and adopt cross-platform architectures **without a full rewrite**. Outside client work, I build open-source software and digital products, write technical content and teach.
 
 I'm also the author of **[You Are Not That Important](https://www.davthecoder.com/book)** and a Udemy instructor who has taught **20,000+ students**.
 
 ```text
-💼  Senior Android & Kotlin Multiplatform Engineer
+💼  Independent Senior Mobile Engineer — Android modernisation, KMP & Rust
 🎧  Building Klarinet — low-latency audio for Kotlin Multiplatform
+🦀  Building Churust — a secure, Ktor-style web framework for Rust
 🌏  Building Paglipat — practical Southeast Asia relocation guides and travel search
-✍️  Writing about Android, KMP, native performance and engineering leadership
-🎤  Speaking about software engineering, mindset and mental health
+✍️  Writing & speaking about Android, KMP, native performance and engineering leadership
 ```
+
+> 💬 **Available for consulting** — Android modernisation, Kotlin Multiplatform adoption, native Rust modules and one-to-one mentoring. [Get in touch →](https://www.davthecoder.com)
 
 ---
 
@@ -31,6 +33,7 @@ I'm also the author of **[You Are Not That Important](https://www.davthecoder.co
 | Project | What it is | Focus |
 |:--|:--|:--|
 | 🎧 **[Klarinet](https://www.davthecoder.com/blog/introducing-klarinet-a-low-latency-audio-sdk-for-kotlin-multiplatform)** | Open-source, low-latency audio SDK for Android and Apple platforms | KMP, Kotlin, C++, Oboe, AVAudioEngine |
+| 🦀 **[Churust](https://www.davthecoder.com/blog/introducing-churust-ktor-style-rust-web-framework/)** | Secure, Ktor-style web framework for Rust — server builder, routing DSL, safe defaults | Rust, HTTP, web frameworks |
 | 🌏 **[Paglipat](https://www.paglipat.com)** | Practical relocation guides and travel search for Southeast Asia | Ktor, Next.js, Supabase, KMP |
 | ✍️ **[davthecoder.com](https://www.davthecoder.com)** | Long-form engineering articles, talks and project write-ups | Android, KMP, Rust, C++, leadership |
 
@@ -81,6 +84,7 @@ I'm also the author of **[You Are Not That Important](https://www.davthecoder.co
 | Repository | Description |
 |:--|:--|
 | **[Klarinet](https://www.davthecoder.com/blog/introducing-klarinet-a-low-latency-audio-sdk-for-kotlin-multiplatform)** | KMP audio SDK with low-latency playback, recording, real-time effects, analysis and file I/O |
+| **[Churust](https://www.davthecoder.com/blog/introducing-churust-ktor-style-rust-web-framework/)** | Ktor-style web framework for Rust with a fluent server builder, routing DSL and secure defaults |
 | **[Financial Rust & Android](https://github.com/davthecodercom/Financial-RustAndAndroid)** | Rust-powered financial calculations integrated with Kotlin and Jetpack Compose |
 | **[Financial Rust & Swift](https://github.com/davthecodercom/Financial-RustAndSwift)** | Rust code integrated into an iOS project with Swift |
 | **[Zig on Android](https://github.com/davthecodercom/ZigOnAndroid)** | A compact example of calling Zig code from Android |
@@ -93,6 +97,10 @@ I'm also the author of **[You Are Not That Important](https://www.davthecoder.co
 <div align="center">
 
 ![Sky](https://img.shields.io/badge/Sky-0072C9?style=for-the-badge&logo=sky&logoColor=white)
+![BetMGM](https://img.shields.io/badge/BetMGM-B8860B?style=for-the-badge)
+![WWE](https://img.shields.io/badge/WWE-ED1C24?style=for-the-badge)
+![BritBox](https://img.shields.io/badge/BritBox-0033A0?style=for-the-badge)
+![NOW](https://img.shields.io/badge/NOW-00A88E?style=for-the-badge)
 ![Comcast](https://img.shields.io/badge/Comcast-000000?style=for-the-badge&logo=xfinity&logoColor=white)
 ![Deltatre](https://img.shields.io/badge/Deltatre-1a1b27?style=for-the-badge)
 ![Massive Interactive](https://img.shields.io/badge/Massive%20Interactive-1a1b27?style=for-the-badge)
