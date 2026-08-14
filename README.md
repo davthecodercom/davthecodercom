@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&fontColor=70a5fd&height=220&section=header&text=David%20Cruz%20Anaya&fontSize=42&fontAlignY=35&desc=Android%20%26%20Kotlin%20Multiplatform%20engineer%20in%20London&descSize=16&descAlignY=55&animation=fadeIn" width="100%" alt="David Cruz Anaya — Android and Kotlin Multiplatform engineer in London" />
+<img src="assets/header.svg" width="100%" alt="David Cruz Anaya — Android and Kotlin Multiplatform engineer in London" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1400&color=70A5FD&center=true&vCenter=true&repeat=true&width=820&height=48&lines=Building+Klarinet%2C+Paglipat%2C+and+Churust;Android+%2B+KMP+%2B+the+native+layer;Author+%C2%B7+Speaker+%C2%B7+20%2C000%2B+students)](https://git.io/typing-svg)
 
@@ -88,13 +88,13 @@ I wrote *[You Are Not That Important](https://www.davthecoder.com/book)* in Engl
 <div align="center">
 
 <a href="https://github.com/davthecodercom">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=davthecodercom&show_icons=true&theme=tokyo_night&hide_border=true&bg_color=0d1117&title_color=70a5fd&icon_color=bb9af7&text_color=c9d1d9&ring_color=70a5fd" alt="GitHub stats" />
+  <img height="165" src="assets/stats.svg" alt="GitHub stats" />
 </a>
 <a href="https://github.com/davthecodercom">
-  <img height="165" src="https://streak-stats.demolab.com?user=davthecodercom&theme=tokyo-night&hide_border=true&background=0d1117&ring=70a5fd&fire=bb9af7&currStreakLabel=70a5fd" alt="GitHub streak" />
+  <img height="165" src="assets/streak.svg" alt="GitHub streak" />
 </a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davthecodercom&layout=compact&theme=tokyo_night&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8" alt="Top languages" />
+<img height="165" src="assets/langs.svg" alt="Top languages" />
 
 </div>
 
@@ -126,6 +126,6 @@ I wrote *[You Are Not That Important](https://www.davthecoder.com/book)* in Engl
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1b27&height=100&section=footer" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="" />
 
 </div>

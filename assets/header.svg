@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="240" viewBox="0 0 1200 240" role="img" aria-label="David Cruz Anaya, Android and Kotlin Multiplatform engineer in London">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#1a1b27"/>
+    </linearGradient>
+    <linearGradient id="wave" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#22243a"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <path fill="url(#wave)" opacity="0.9" d="M0 168 C 180 148 300 198 480 178 C 660 158 780 128 960 148 C 1080 160 1140 172 1200 166 L 1200 240 L 0 240 Z">
+    <animate
+      attributeName="d"
+      dur="18s"
+      repeatCount="indefinite"
+      values="
+        M0 168 C 180 148 300 198 480 178 C 660 158 780 128 960 148 C 1080 160 1140 172 1200 166 L 1200 240 L 0 240 Z;
+        M0 176 C 160 200 320 140 500 166 C 680 192 820 210 980 170 C 1100 146 1160 154 1200 160 L 1200 240 L 0 240 Z;
+        M0 162 C 200 130 340 186 520 172 C 700 158 840 120 1000 150 C 1110 168 1160 180 1200 174 L 1200 240 L 0 240 Z;
+        M0 168 C 180 148 300 198 480 178 C 660 158 780 128 960 148 C 1080 160 1140 172 1200 166 L 1200 240 L 0 240 Z
+      "
+    />
+  </path>
+  <path fill="#70a5fd" opacity="0.12" d="M0 188 C 200 170 360 210 540 192 C 720 174 860 150 1040 168 C 1120 176 1160 184 1200 180 L 1200 240 L 0 240 Z">
+    <animate
+      attributeName="d"
+      dur="18s"
+      begin="-8s"
+      repeatCount="indefinite"
+      values="
+        M0 188 C 200 170 360 210 540 192 C 720 174 860 150 1040 168 C 1120 176 1160 184 1200 180 L 1200 240 L 0 240 Z;
+        M0 196 C 180 220 340 164 530 186 C 720 208 880 220 1040 188 C 1130 170 1170 176 1200 178 L 1200 240 L 0 240 Z;
+        M0 184 C 220 156 380 204 560 190 C 740 176 900 148 1060 172 C 1140 184 1170 192 1200 188 L 1200 240 L 0 240 Z;
+        M0 188 C 200 170 360 210 540 192 C 720 174 860 150 1040 168 C 1120 176 1160 184 1200 180 L 1200 240 L 0 240 Z
+      "
+    />
+  </path>
+  <text x="600" y="98" text-anchor="middle" fill="#70a5fd" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="44" font-weight="700">David Cruz Anaya</text>
+  <text x="600" y="138" text-anchor="middle" fill="#8db4f8" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif" font-size="20" font-weight="500">Android &amp; Kotlin Multiplatform engineer in London</text>
+</svg>
