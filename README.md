@@ -73,11 +73,11 @@ Smaller repos I use to try things:
 Recent posts from [davthecoder.com](https://www.davthecoder.com/blog):
 
 <!-- BLOG-POST-LIST:START -->
+- [Project Structure: Gradle + Cargo in One Build, ABI Splits, Debug/Release Flavors](https://www.davthecoder.com/blog/android-project-structure-gradle-cargo-rust/) — *Aug 14, 2026*
 - [From Mobile to AI/ML: Why a Senior Mobile Engineer Is Learning Machine Learning](https://www.davthecoder.com/blog/from-mobile-to-ai-ml-why-a-senior-mobile-engineer-is-learning-machine-learning/) — *Aug 7, 2026*
 - [UniFFI: Kotlin Bindings for Rust Without Writing JNI by Hand](https://www.davthecoder.com/blog/uniffi-android-kotlin-bindings-for-rust/) — *Aug 7, 2026*
 - [Calling Rust from Kotlin: JNI Basics for Android Developers](https://www.davthecoder.com/blog/calling-rust-from-kotlin-jni-basics-android/) — *Jul 31, 2026*
-- [Introducing Churust: A Secure, Ktor-Style Web Framework for Rust](https://www.davthecoder.com/blog/introducing-churust-ktor-style-rust-web-framework/) — *Jul 26, 2026*
-- [The Complete Rust Toolchain Setup for Android: rustup, cargo-ndk, and Your First .so in an APK](https://www.davthecoder.com/blog/rust-android-ndk-toolchain-setup-cargo-ndk/) — *Jul 23, 2026*<!-- BLOG-POST-LIST:END -->
+- [Introducing Churust: A Secure, Ktor-Style Web Framework for Rust](https://www.davthecoder.com/blog/introducing-churust-ktor-style-rust-web-framework/) — *Jul 26, 2026*<!-- BLOG-POST-LIST:END -->
 
 [More on the blog](https://www.davthecoder.com/blog)
 
