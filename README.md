@@ -73,11 +73,11 @@ Smaller repos I use to try things:
 Recent posts from [davthecoder.com](https://www.davthecoder.com/blog):
 
 <!-- BLOG-POST-LIST:START -->
+- [Beyond the LLM Wrapper: Engineering Paglipat’s AI Concierge](https://www.davthecoder.com/blog/beyond-the-llm-wrapper-paglipat-ai-concierge/) — *Sep 17, 2026*
+- [Error Handling and Panics: Keeping Rust Crashes Out of Your Android App](https://www.davthecoder.com/blog/rust-error-handling-panics-android/) — *Sep 11, 2026*
 - [Memory Management Across JNI: Ownership, Box::into_raw, Global Refs, and Leaks](https://www.davthecoder.com/blog/jni-memory-management-rust-ownership-leaks/) — *Sep 4, 2026*
 - [Why Paglipat Runs on Astro, Go, and Flutter](https://www.davthecoder.com/blog/paglipat-architecture-astro-go-flutter/) — *Sep 2, 2026*
-- [Passing Data Between Kotlin and Rust: Strings, Arrays, ByteBuffers, and Zero-Copy](https://www.davthecoder.com/blog/passing-data-kotlin-rust-jni-bytebuffers-zero-copy/) — *Aug 28, 2026*
-- [Fast Image Processing on Android with Rust: Bitmaps, Filters, and the JNI Fast Path](https://www.davthecoder.com/blog/fast-image-processing-android-rust-benchmarks/) — *Aug 21, 2026*
-- [Project Structure: Gradle + Cargo in One Build, ABI Splits, Debug/Release Flavors](https://www.davthecoder.com/blog/android-project-structure-gradle-cargo-rust/) — *Aug 14, 2026*<!-- BLOG-POST-LIST:END -->
+- [Passing Data Between Kotlin and Rust: Strings, Arrays, ByteBuffers, and Zero-Copy](https://www.davthecoder.com/blog/passing-data-kotlin-rust-jni-bytebuffers-zero-copy/) — *Aug 28, 2026*<!-- BLOG-POST-LIST:END -->
 
 [More on the blog](https://www.davthecoder.com/blog)
 
