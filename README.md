@@ -73,11 +73,11 @@ Smaller repos I use to try things:
 Recent posts from [davthecoder.com](https://www.davthecoder.com/blog):
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the LLM Wrapper: Engineering Paglipat’s AI Concierge](https://www.davthecoder.com/blog/beyond-the-llm-wrapper-paglipat-ai-concierge/) — *Sep 17, 2026*
-- [Error Handling and Panics: Keeping Rust Crashes Out of Your Android App](https://www.davthecoder.com/blog/rust-error-handling-panics-android/) — *Sep 11, 2026*
-- [Memory Management Across JNI: Ownership, Box::into_raw, Global Refs, and Leaks](https://www.davthecoder.com/blog/jni-memory-management-rust-ownership-leaks/) — *Sep 4, 2026*
-- [Why Paglipat Runs on Astro, Go, and Flutter](https://www.davthecoder.com/blog/paglipat-architecture-astro-go-flutter/) — *Sep 2, 2026*
-- [Passing Data Between Kotlin and Rust: Strings, Arrays, ByteBuffers, and Zero-Copy](https://www.davthecoder.com/blog/passing-data-kotlin-rust-jni-bytebuffers-zero-copy/) — *Aug 28, 2026*<!-- BLOG-POST-LIST:END -->
+- [Cryptography with Rust on Android: ring and RustCrypto Instead of Rolling Your Own](https://www.davthecoder.com/blog/rust-cryptography-android-ring-rustcrypto/) — *Oct 9, 2026*
+- [Heavy Parsing with Serde: Offloading JSON and CSV Crunching to Rust](https://www.davthecoder.com/blog/serde-json-parsing-rust-android/) — *Oct 2, 2026*
+- [Low-Latency Audio DSP with Rust: AAudio and Oboe from a Rust Core](https://www.davthecoder.com/blog/low-latency-audio-dsp-rust-android-aaudio-oboe/) — *Sep 25, 2026*
+- [Threading and Async: Tokio, Kotlin Coroutines, and Calling Back Into Kotlin from Rust](https://www.davthecoder.com/blog/rust-threading-async-tokio-android-kotlin-callbacks/) — *Sep 18, 2026*
+- [Beyond the LLM Wrapper: Engineering Paglipat’s AI Concierge](https://www.davthecoder.com/blog/beyond-the-llm-wrapper-paglipat-ai-concierge/) — *Sep 17, 2026*<!-- BLOG-POST-LIST:END -->
 
 [More on the blog](https://www.davthecoder.com/blog)
 
