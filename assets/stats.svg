@@ -8,7 +8,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">David Cruz&#39;s GitHub Stats, Rank: B-</title>
-        <desc id="descId">Total Stars Earned: 16, Total Commits  (last year) : 107, Total PRs: 25, Total Issues: 21, Contributed to (last year): 3</desc>
+        <desc id="descId">Total Stars Earned: 16, Total Commits  (last year) : 97, Total PRs: 25, Total Issues: 21, Contributed to (last year): 3</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -69,7 +69,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 171.70006779371886;
+        stroke-dashoffset: 172.57538957181825;
       }
     }
   
@@ -180,7 +180,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >107</text>
+      >97</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
