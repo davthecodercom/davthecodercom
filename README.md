@@ -73,11 +73,11 @@ Smaller repos I use to try things:
 Recent posts from [davthecoder.com](https://www.davthecoder.com/blog):
 
 <!-- BLOG-POST-LIST:START -->
+- [CI/CD for Rust + Android: GitHub Actions, Cross-Compilation Caching, Reproducible Builds](https://www.davthecoder.com/blog/ci-cd-rust-android-github-actions/) — *Oct 23, 2026*
+- [Binary Size and the 16KB Page Requirement: Optimizing Rust .so Files for Release](https://www.davthecoder.com/blog/rust-binary-size-android-16kb-page-size/) — *Oct 16, 2026*
 - [Cryptography with Rust on Android: ring and RustCrypto Instead of Rolling Your Own](https://www.davthecoder.com/blog/rust-cryptography-android-ring-rustcrypto/) — *Oct 9, 2026*
 - [Heavy Parsing with Serde: Offloading JSON and CSV Crunching to Rust](https://www.davthecoder.com/blog/serde-json-parsing-rust-android/) — *Oct 2, 2026*
-- [Low-Latency Audio DSP with Rust: AAudio and Oboe from a Rust Core](https://www.davthecoder.com/blog/low-latency-audio-dsp-rust-android-aaudio-oboe/) — *Sep 25, 2026*
-- [Threading and Async: Tokio, Kotlin Coroutines, and Calling Back Into Kotlin from Rust](https://www.davthecoder.com/blog/rust-threading-async-tokio-android-kotlin-callbacks/) — *Sep 18, 2026*
-- [Beyond the LLM Wrapper: Engineering Paglipat’s AI Concierge](https://www.davthecoder.com/blog/beyond-the-llm-wrapper-paglipat-ai-concierge/) — *Sep 17, 2026*<!-- BLOG-POST-LIST:END -->
+- [Low-Latency Audio DSP with Rust: AAudio and Oboe from a Rust Core](https://www.davthecoder.com/blog/low-latency-audio-dsp-rust-android-aaudio-oboe/) — *Sep 25, 2026*<!-- BLOG-POST-LIST:END -->
 
 [More on the blog](https://www.davthecoder.com/blog)
 
