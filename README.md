@@ -73,11 +73,11 @@ Smaller repos I use to try things:
 Recent posts from [davthecoder.com](https://www.davthecoder.com/blog):
 
 <!-- BLOG-POST-LIST:START -->
+- [Rust in Kotlin Multiplatform: One Native Core for Android and iOS, and When to Skip Rust Entirely](https://www.davthecoder.com/blog/rust-kotlin-multiplatform-shared-native-core/) — *Oct 30, 2026*
 - [What is a Forward Deployed Engineer &lpar;and Why Applied AI Needs More of Them&rpar;](https://www.davthecoder.com/blog/what-is-a-forward-deployed-engineer/) — *Oct 27, 2026*
 - [CI/CD for Rust + Android: GitHub Actions, Cross-Compilation Caching, Reproducible Builds](https://www.davthecoder.com/blog/ci-cd-rust-android-github-actions/) — *Oct 23, 2026*
 - [Binary Size and the 16KB Page Requirement: Optimizing Rust .so Files for Release](https://www.davthecoder.com/blog/rust-binary-size-android-16kb-page-size/) — *Oct 16, 2026*
-- [Cryptography with Rust on Android: ring and RustCrypto Instead of Rolling Your Own](https://www.davthecoder.com/blog/rust-cryptography-android-ring-rustcrypto/) — *Oct 9, 2026*
-- [Heavy Parsing with Serde: Offloading JSON and CSV Crunching to Rust](https://www.davthecoder.com/blog/serde-json-parsing-rust-android/) — *Oct 2, 2026*<!-- BLOG-POST-LIST:END -->
+- [Cryptography with Rust on Android: ring and RustCrypto Instead of Rolling Your Own](https://www.davthecoder.com/blog/rust-cryptography-android-ring-rustcrypto/) — *Oct 9, 2026*<!-- BLOG-POST-LIST:END -->
 
 [More on the blog](https://www.davthecoder.com/blog)
 
